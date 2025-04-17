@@ -29,7 +29,7 @@ This will activate the blackout, turning off lights for all players.
 ## Installation
 
 1. **Download the Script**: Place the script folder in the `resources` directory of your server.
-2. **Update `server.cfg`**: Add `start wetter_script` to your `server.cfg` to ensure the script is loaded.
+2. **Update `server.cfg`**: Add `start weather_script` to your `server.cfg` to ensure the script is loaded.
 3. **ESX Setup**: Ensure that **ESX Legacy** and `es_extended` are installed and running.
 4. **Restart the Server**: Restart the server to load the new resource.
 
